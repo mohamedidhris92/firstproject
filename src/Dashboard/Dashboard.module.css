@@ -1,0 +1,70 @@
+.Dashboard {
+  margin-left: 45%;
+
+  padding: 15px 0 0 0;
+
+}
+
+.head {
+  margin-top: 10px;
+  background-color: rgb(236, 149, 149);
+  padding: 04px;
+  max-width: fit-content;
+  margin-left: 46%;
+
+}
+
+.head1 {
+
+  margin-left: 44%;
+}
+
+.griditem {
+  /* width: calc(20% - 20px); */
+  border: 2px solid #999;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 65px;
+}
+
+.gridcontainer {
+  padding: 15px;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  /* Adjust the gap between items */
+}
+
+.edit {
+  font-size: 15px;
+  border-radius: 50px;
+  margin: 0 0 0 100px;
+
+}
+
+.delete {
+  font-size: 15px;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 30px;
+
+}
+
+
+.MyProfile {
+
+
+  padding: 20px;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form {
+
+  padding: 20px;
+
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
